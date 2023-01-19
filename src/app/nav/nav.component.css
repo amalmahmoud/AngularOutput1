@@ -1,0 +1,22 @@
+.navbar {
+    padding: 10px 0;
+    background-color: #212121;
+    color: #F44336;
+    width: 100%;
+}
+
+.site-name {
+    padding: 0px 30px;
+    color: #E74C3C;
+}
+
+.site-menu {
+    padding: 0px 30px;
+    /* margin-left: 100px; */
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0px 10px;
+}
